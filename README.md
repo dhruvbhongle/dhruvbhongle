@@ -16,6 +16,10 @@
   </a>
 </div>
 
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7d89f5,100:83f5d7&height=120&section=footer" width="100%" alt="Footer" />
+</div>
+
 ## 
 Hey there! I'm **Dhruv Bhongle**, a 17-year-old ordinary student from India (Maharashtra). Currently studying in 12th grade.
 ##
