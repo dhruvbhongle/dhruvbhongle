@@ -8,7 +8,7 @@
 <br/>
 
 <div align="center">
-  <a href="https://www.instagram.com/dhruvbhongle__69?igsh=c3lpNzZxemttZDEy" target="_blank">
+  <a href="https://www.instagram.com/dhruvbhongle_69?igsh=c3lpNzZxemttZDEy" target="_blank">
     <img src="https://img.shields.io/badge/-dhruvbhongle__69-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/>
   </a>
   <a href="https://discord.gg/mgZ4qV96Mm" target="_blank">
