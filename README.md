@@ -28,7 +28,7 @@ Hey there! I'm **Dhruv Bhongle**, a 17-year-old ordinary student from India (Mah
 ##
 SPY ME 👀:
 ![Discord Presence](https://lanyard.cnrad.dev/api/743815881896886333)
-##
+
 <p align="center"> 
   <a href="https://open.spotify.com/user/31i7mxmpfdnmzzkuflf7kt6tnvau" target="_blank"> <img src="https://spotify-recently-played-readme.vercel.app/api?user=31i7mxmpfdnmzzkuflf7kt6tnvau"/> </a> 
 </p>
