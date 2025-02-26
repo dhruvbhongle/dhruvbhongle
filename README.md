@@ -30,7 +30,7 @@ SPY ME 👀:
 ![Discord Presence](https://lanyard.cnrad.dev/api/743815881896886333)
 
 <p align="center"> 
-  <a href="https://open.spotify.com/user/31i7mxmpfdnmzzkuflf7kt6tnvau" target="_blank"> <img src="https://spotify-recently-played-readme.vercel.app/api?user=31i7mxmpfdnmzzkuflf7kt6tnvau"/> </a> 
+  <a href="https://open.spotify.com/user/31i7mxmpfdnmzzkuflf7kt6tnvau" target="_blank"> <img src="https://spotify-recently-played-readme.vercel.app/api?user=31i7mxmpfdnmzzkuflf7kt6tnvau&count=10&width=600"/> </a> 
 </p>
 
 ##
