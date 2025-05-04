@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,31,89&height=200&section=header&text=Hi,%20I'm%20Dhruv%20Bhongle&fontSize=50&fontAlignY=35&animation=twinkling&desc=Founder%20of%20SangSuno%20|%20High%20School%20Student&descAlignY=55"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,31,89&height=200&section=header&text=Hi,%20I'm%20Dhruv%20Bhongle&fontSize=50&fontAlignY=35&animation=twinkling&desc=Founder%20of%20SCrave4Code%20|%20High%20School%20Student&descAlignY=55"/>
 </div>
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&size=22&duration=4000&pause=1000&color=2E9EFF&center=true&vCenter=true&random=false&width=950&lines=High+School+Student+%7C+Exploring+New+Technologies+%26+Best+Practices" alt="Typing SVG" />
@@ -23,14 +23,10 @@
 ## 
 Hey there! I'm **Dhruv Bhongle**, a 17-year-old ordinary student from India (Maharashtra). Currently studying in 12th grade.
 ##
-- I'm currently working on : **StudyNest Hub**
-- Reach me at : **dhruvbhongle@gmail.com**
+- I'm currently working on : **Crave4Code**
+- Reach me at : **dhruvbhongle0@gmail.com**
 ##
-SPY ME 👀:
-![Discord Presence](https://lanyard.cnrad.dev/api/743815881896886333)
 
-<p align="center"> 
-  <a href="https://open.spotify.com/user/31i7mxmpfdnmzzkuflf7kt6tnvau" target="_blank"> <img src="https://spotify-recently-played-readme.vercel.app/api?user=31i7mxmpfdnmzzkuflf7kt6tnvau&count=10&width=600"/> </a> 
-</p>
+![Discord Presence](https://lanyard.cnrad.dev/api/743815881896886333)
 
 ##
